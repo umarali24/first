@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+unstructured[pdf]
+# unstructured-inference
+# unstructured.pytesseract
+# pillow
+# pdf2image
